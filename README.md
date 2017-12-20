@@ -38,11 +38,11 @@ Sua capacidade de analisar, projetar e codificar uma solução guiando-se com **
 Por favor, inclua suas considerações da atividade em um arquivo de texto ou markdown.
 
 __O que não vale?__
- - Frameworks :] (aliás, nem precisa)
- - Metaprogramação
+  - Frameworks :] (aliás, nem precisa)
+  - Metaprogramação
 
 __Qual linguagem?__
-PHP
+  - PHP ou Python
 
 __Tempo__
 Estima-se 2h30 para este desafio, entretanto não há um limite.
