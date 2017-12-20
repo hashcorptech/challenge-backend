@@ -27,6 +27,8 @@ Crie as classes, métodos e suas respectivas chamadas para tratar os cenários a
 
 **Não é necessário** criar as implementações para envio de e-mails. Para este caso (email) crie apenas as chamadas de métodos, para indicar que ali seria o local aonde o envio ocorreria.
 
+**Não é necessário** criar banco de dados. Pode utilizar apenas dados __in memory__.
+
 Como a proposta **não requer um código final funcionando**, não há a necessidade de implementar os testes de unidade. Entretanto, levaremos isso como _bonus points_. É permitido o uso de bibliotecas para facilitar a implementação dos testes (somente para testes).
 
 ### O que está sob avaliação?
