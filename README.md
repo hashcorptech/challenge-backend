@@ -57,3 +57,4 @@ Para nos enviar seu código, você pode:
 
  - Fazer um fork desse repositório, e nos mandar uma pull-request.
  - Dar acesso ao seu repositório privado no [GitLab](https://gitlab.com) para `hedcler` ou [Bitbucket](https://bitbucket.org) para `hedclerm`.
+ - Nos enviar o arquivo compactado por email para: __dev@hashcorp.tech__
