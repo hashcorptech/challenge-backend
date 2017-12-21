@@ -1,0 +1,20 @@
+{
+    "name": "gnadai/challenge",
+    "description": "The challenge project for HashiCorp.",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Nadai",
+            "email": "gabriel1nadai1@gmail.com"
+        }
+    ]
+}
